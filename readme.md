@@ -3,4 +3,10 @@ this is learning path
 
 stage1: git commands
 
+
+List of commands
+git init:
+git status:
+
 stage2: practice commands
+
